@@ -1,4 +1,4 @@
-baseURL = "https://yourusername.github.io/genesis-middle-earth/"
+baseURL = "https://github.com/JHulinator/genesis-middle-earth.git"
 languageCode = "en-us"
 title = "Genesis 1-11: A Commentary for Christian Middle-earth"
 theme = "PaperMod"
