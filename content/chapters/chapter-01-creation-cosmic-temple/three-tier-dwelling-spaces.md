@@ -1,7 +1,8 @@
 ---
-title: "{{ replace .File.ContentBaseName "-" " " | title }}"
-date: {{ .Date }}
+title: "Three Tier Dwelling Spaces"
+date: 2026-08-07T21:06:12-05:00
 draft: true
+weight: 4
 tags: []
 ---
 

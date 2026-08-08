@@ -1,7 +1,8 @@
 ---
-title: "{{ replace .File.ContentBaseName "-" " " | title }}"
-date: {{ .Date }}
+title: "Temple Dedication"
+date: 2026-08-07T21:06:12-05:00
 draft: true
+weight: 6
 tags: []
 ---
 

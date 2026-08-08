@@ -1,7 +1,8 @@
 ---
-title: "{{ replace .File.ContentBaseName "-" " " | title }}"
-date: {{ .Date }}
+title: "Deuteronomy 32 Worldview"
+date: 2026-08-07T21:09:03-05:00
 draft: true
+weight: 1
 tags: []
 ---
 

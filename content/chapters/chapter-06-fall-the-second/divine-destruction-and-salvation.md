@@ -1,7 +1,8 @@
 ---
-title: "{{ replace .File.ContentBaseName "-" " " | title }}"
-date: {{ .Date }}
+title: "Divine Destruction and Salvation"
+date: 2026-08-07T21:08:01-05:00
 draft: true
+weight: 4
 tags: []
 ---
 

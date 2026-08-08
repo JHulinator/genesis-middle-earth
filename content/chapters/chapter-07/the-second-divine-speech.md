@@ -1,7 +1,8 @@
 ---
-title: "{{ replace .File.ContentBaseName "-" " " | title }}"
-date: {{ .Date }}
+title: "The Second Divine Speech"
+date: 2026-08-07T21:08:09-05:00
 draft: true
+weight: 1
 tags: []
 ---
 

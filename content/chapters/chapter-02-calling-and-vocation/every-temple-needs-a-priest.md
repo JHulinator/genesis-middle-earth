@@ -1,7 +1,8 @@
 ---
-title: "{{ replace .File.ContentBaseName "-" " " | title }}"
-date: {{ .Date }}
+title: "Every Temple Needs a Priest"
+date: 2026-08-07T21:06:37-05:00
 draft: true
+weight: 1
 tags: []
 ---
 

@@ -1,4 +1,4 @@
-baseURL = 
+baseURL = "https://yourusername.github.io/genesis-middle-earth/"
 languageCode = "en-us"
 title = "Genesis 1-11: A Commentary for Christian Middle-earth"
 theme = "PaperMod"
@@ -12,18 +12,15 @@ theme = "PaperMod"
   ShowCodeCopyButtons = false
   ShowToc = true
   TocOpen = false
+  mainSections = ["introduction"]
 
 [[menu.main]]
-  name = "Home"
-  url = "/"
+  name = "Introduction"
+  url = "/introduction/"
   weight = 1
 
 [[menu.main]]
   name = "Commentary"
-  url = "/posts/"
+  url = "/chapters/"
   weight = 2
 
-[[menu.main]]
-  name = "About"
-  url = "/about/"
-  weight = 3

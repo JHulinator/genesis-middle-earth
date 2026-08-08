@@ -1,7 +1,8 @@
 ---
-title: "{{ replace .File.ContentBaseName "-" " " | title }}"
-date: {{ .Date }}
+title: "Creation Evolution Debate"
+date: 2026-08-07T21:03:09-05:00
 draft: true
+weight: 2
 tags: []
 ---
 

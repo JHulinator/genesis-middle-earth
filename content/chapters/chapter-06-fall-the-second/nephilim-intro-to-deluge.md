@@ -1,7 +1,8 @@
 ---
-title: "{{ replace .File.ContentBaseName "-" " " | title }}"
-date: {{ .Date }}
+title: "Nephilim Intro to Deluge"
+date: 2026-08-07T21:08:00-05:00
 draft: true
+weight: 1
 tags: []
 ---
 

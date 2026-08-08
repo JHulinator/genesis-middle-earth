@@ -1,0 +1,71 @@
+/* Set customb color scheme for headings within post content */
+:root {
+  --theme: #f1e8d5;
+  --entry: #faf6ec;
+  --primary: #33302d;
+  --secondary: #8B7865;
+  --tertiary: #B89B7A;
+  --content: #33302d;
+  --code-block-bg: #e8ddc7;
+  --border: #ddd2bd;
+  --accent: #7A8C6D;
+}
+
+:root[data-theme="dark"] {
+  --theme: #33302d;
+  --entry: #3a3733;
+  --primary: #f1e8d5;
+  --secondary: #B89B7A;
+  --tertiary: #8B7865;
+  --content: #f1e8d5;
+  --code-block-bg: #2a2724;
+  --border: #4a453f;
+  --accent: #7A8C6D;
+}
+
+/* Set the bottom margin for paragraphs in single post content */
+article.post-single .post-content p {
+  margin-bottom: 1em;
+}
+.spacer {
+  height: 2em;
+}
+
+/* Style for links within post content */
+.post-content a {
+  color: var(--primary);
+  text-decoration: underline;
+  font-weight: 600;
+}
+
+.post-content a:hover {
+  color: var(--secondary);
+}
+
+/* Style the list bullets within post content */
+.post-content ul {
+  margin-left: 1.5em;
+  padding-left: 1em;
+}
+
+.post-content li {
+  margin-bottom: 0em;
+}
+
+/* Add Custom Font Styles */
+@import url('https://fonts.googleapis.com/css2?family=Vollkorn:ital,wght@0,400;0,600;0,700;1,400&family=Inter:wght@400;600&display=swap');
+
+:root {
+  --font-serif: 'Vollkorn', Georgia, serif;
+  --font-sans: 'Inter', -apple-system, sans-serif;
+}
+
+body {
+  font-family: var(--font-sans);
+}
+
+.post-content,
+.post-title,
+h1, h2, h3, h4 {
+  font-family: var(--font-serif);
+}
