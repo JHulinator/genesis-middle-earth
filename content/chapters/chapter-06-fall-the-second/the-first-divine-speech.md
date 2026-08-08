@@ -1,7 +1,7 @@
 ---
 title: "The First Divine Speech"
 date: 2026-08-07T21:08:02-05:00
-draft: true
+draft: false
 weight: 7
 tags: []
 ---

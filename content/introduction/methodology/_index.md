@@ -1,7 +1,7 @@
 ---
 title: "Methodology"
 date: 2026-08-07T21:03:09-05:00
-draft: true
+draft: false
 weight: 3
 tags: []
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Chapter 07"
 date: 2026-08-07T21:08:09-05:00
-draft: true
+draft: false
 weight: 7
 tags: []
 ---

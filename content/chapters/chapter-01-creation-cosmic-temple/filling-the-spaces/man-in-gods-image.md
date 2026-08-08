@@ -1,7 +1,7 @@
 ---
 title: "Man in Gods Image"
 date: 2026-08-07T21:06:12-05:00
-draft: true
+draft: false
 weight: 1
 tags: []
 ---

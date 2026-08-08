@@ -1,7 +1,7 @@
 ---
 title: "The Path of Life Through Death"
 date: 2026-08-07T21:07:51-05:00
-draft: true
+draft: false
 weight: 2
 tags: []
 ---

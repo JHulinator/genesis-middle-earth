@@ -1,7 +1,7 @@
 ---
 title: "Noah Patterns Submission Suffering Life"
 date: 2026-08-07T21:08:27-05:00
-draft: true
+draft: false
 weight: 4
 tags: []
 ---

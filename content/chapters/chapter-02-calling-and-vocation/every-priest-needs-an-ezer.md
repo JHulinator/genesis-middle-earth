@@ -1,7 +1,7 @@
 ---
 title: "Every Priest Needs an Ezer"
 date: 2026-08-07T21:07:10-05:00
-draft: true
+draft: false
 weight: 3
 tags: []
 ---

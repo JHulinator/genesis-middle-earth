@@ -1,7 +1,7 @@
 ---
 title: "Chapter 05 These Are the Generations"
 date: 2026-08-07T21:07:50-05:00
-draft: true
+draft: false
 weight: 5
 tags: []
 ---

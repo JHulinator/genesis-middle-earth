@@ -1,7 +1,7 @@
 ---
 title: "The Way of Cain Death"
 date: 2026-08-07T21:15:04-05:00
-draft: true
+draft: false
 weight: 2
 tags: []
 ---

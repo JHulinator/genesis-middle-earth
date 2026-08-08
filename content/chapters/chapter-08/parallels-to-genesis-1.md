@@ -1,7 +1,7 @@
 ---
 title: "Parallels to Genesis 1"
 date: 2026-08-07T21:08:27-05:00
-draft: true
+draft: false
 weight: 3
 tags: []
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Chapter 04 in Sorrow Thou Shalt Bring Forth Children"
 date: 2026-08-07T21:15:03-05:00
-draft: true
+draft: false
 weight: 4
 tags: []
 ---

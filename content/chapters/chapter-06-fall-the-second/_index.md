@@ -1,7 +1,7 @@
 ---
 title: "Chapter 06 Fall the Second"
 date: 2026-08-07T21:08:00-05:00
-draft: true
+draft: false
 weight: 6
 tags: []
 ---

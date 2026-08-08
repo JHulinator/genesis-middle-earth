@@ -1,7 +1,7 @@
 ---
 title: "Chapter 02 Calling and Vocation"
 date: 2026-08-07T21:07:25-05:00
-draft: true
+draft: false
 weight: 2
 tags: []
 ---

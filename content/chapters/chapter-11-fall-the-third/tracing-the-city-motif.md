@@ -1,7 +1,7 @@
 ---
 title: "Tracing the City Motif"
 date: 2026-08-07T21:09:15-05:00
-draft: true
+draft: false
 weight: 3
 tags: []
 ---

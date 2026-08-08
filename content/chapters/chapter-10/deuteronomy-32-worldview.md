@@ -1,7 +1,7 @@
 ---
 title: "Deuteronomy 32 Worldview"
 date: 2026-08-07T21:09:03-05:00
-draft: true
+draft: false
 weight: 1
 tags: []
 ---
