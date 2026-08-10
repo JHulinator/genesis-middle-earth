@@ -1,4 +1,4 @@
-baseURL = "https://github.com/JHulinator/genesis-middle-earth.git"
+baseURL = "https://christian-middle-earth.me/"
 languageCode = "en-us"
 title = "Genesis 1-11: A Commentary for Christian Middle-earth"
 theme = "PaperMod"
@@ -11,16 +11,16 @@ theme = "PaperMod"
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = false
   ShowToc = true
-  TocOpen = false
+  TocOpen = falsepanel-1-35
   mainSections = ["introduction"]
 
 [[menu.main]]
   name = "Introduction"
-  url = "/introduction/"
+  url = "/commentary/introduction/"
   weight = 1
 
 [[menu.main]]
   name = "Commentary"
-  url = "/chapters/"
+  url = "/commentary/chapters/"
   weight = 2
 
