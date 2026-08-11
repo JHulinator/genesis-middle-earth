@@ -1,0 +1,36 @@
+backend:
+  name: github
+  repo: JHulinator/genesis-middle-earth
+  branch: main
+  base_url: https://api.netlify.com
+  auth_endpoint: auth
+
+site_url: https://christian-middle-earth.me
+display_url: https://christian-middle-earth.me
+
+media_folder: static/uploads
+public_folder: /uploads
+
+publish_mode: editorial_workflow
+local_backend: true
+
+collections:
+  - name: introduction
+    label: Introduction
+    folder: content/commentary/introduction
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - label: Title
+        name: title
+        widget: string
+      - label: Date
+        name: date
+        widget: datetime
+      - label: Draft
+        name: draft
+        widget: boolean
+        default: false
+      - label: Body
+        name: body
+        widget: markdown
