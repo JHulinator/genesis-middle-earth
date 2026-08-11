@@ -2,7 +2,7 @@ backend:
   name: github
   repo: JHulinator/genesis-middle-earth
   branch: main
-  base_url: https://api.netlify.com
+  base_url: https://genesis-cms-oauth.vercel.app
   auth_endpoint: auth
 
 site_url: https://christian-middle-earth.me
