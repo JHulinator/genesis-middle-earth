@@ -1,7 +1,7 @@
 ---
 title: "Covenant Conclusion"
 date: 2026-08-07T21:08:36-05:00
-draft: false
+draft: true
 weight: 1
 tags: []
 ---

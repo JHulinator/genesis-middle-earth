@@ -1,7 +1,7 @@
 ---
 title: "Creation as Exodus"
 date: 2026-08-07T21:06:13-05:00
-draft: false
+draft: true
 weight: 7
 tags: []
 ---

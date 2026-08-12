@@ -1,7 +1,7 @@
 ---
 title: "Sons of Ham"
 date: 2026-08-07T21:09:04-05:00
-draft: false
+draft: true
 weight: 2
 tags: []
 ---

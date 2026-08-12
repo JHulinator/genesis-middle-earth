@@ -1,7 +1,7 @@
 ---
 title: "Nephilim Giborim Giants"
 date: 2026-08-07T21:08:00-05:00
-draft: false
+draft: true
 weight: 3
 tags: []
 ---

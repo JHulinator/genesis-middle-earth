@@ -1,7 +1,7 @@
 ---
 title: "Waters of Chaos"
 date: 2026-08-07T21:06:11-05:00
-draft: false
+draft: true
 weight: 2
 tags: []
 ---

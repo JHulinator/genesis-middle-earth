@@ -1,7 +1,7 @@
 ---
 title: "Cain and Abel Offerings"
 date: 2026-08-07T21:15:03-05:00
-draft: false
+draft: true
 weight: 1
 tags: []
 ---

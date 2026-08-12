@@ -1,7 +1,7 @@
 ---
 title: "Protoevangelium"
 date: 2026-08-07T21:07:38-05:00
-draft: false
+draft: true
 weight: 1
 tags: []
 ---

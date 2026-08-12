@@ -12,7 +12,7 @@ media_folder: static/uploads
 public_folder: /uploads
 
 publish_mode: editorial_workflow
-local_backend: true
+local_backend: false
 
 collections:
   - name: introduction

@@ -1,7 +1,7 @@
 ---
 title: "The Ark"
 date: 2026-08-07T21:08:01-05:00
-draft: false
+draft: true
 weight: 6
 tags: []
 ---

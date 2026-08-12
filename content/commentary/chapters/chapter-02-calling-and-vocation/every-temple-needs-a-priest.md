@@ -1,7 +1,7 @@
 ---
 title: "Every Temple Needs a Priest"
 date: 2026-08-07T21:06:37-05:00
-draft: false
+draft: true
 weight: 1
 tags: []
 ---

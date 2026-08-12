@@ -1,7 +1,7 @@
 ---
 title: "The Spirit"
 date: 2026-08-07T21:06:12-05:00
-draft: false
+draft: true
 weight: 3
 tags: []
 ---

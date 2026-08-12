@@ -1,7 +1,7 @@
 ---
 title: "The Giving of a Name"
 date: 2026-08-07T21:07:50-05:00
-draft: false
+draft: true
 weight: 1
 tags: []
 ---

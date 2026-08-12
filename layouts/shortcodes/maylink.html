@@ -1,0 +1,7 @@
+{{ $path := .Get 0 }}
+{{ $text := .Get 1 | default $path }}
+{{ with .Site.GetPage $path }}
+<a href="{{ .RelPermalink }}">{{ $text }}</a>
+{{ else }}
+<span class="future-link">{{ $text }}</span>
+{{ end }}

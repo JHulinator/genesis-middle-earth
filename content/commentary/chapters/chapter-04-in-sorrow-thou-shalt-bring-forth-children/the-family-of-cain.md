@@ -1,7 +1,7 @@
 ---
 title: "The Family of Cain"
 date: 2026-08-07T21:15:04-05:00
-draft: false
+draft: true
 weight: 3
 tags: []
 ---
