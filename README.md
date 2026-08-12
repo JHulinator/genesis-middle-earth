@@ -1,10 +1,4 @@
----
-created: 2026-08-08
-createdTime: 01:42
-category:
-link: https://jhulinator.github.io/genesis-middle-earth/commentary/
-project: Genesis 1-11 Commentary
----
+
 # Background
 ---
 I built this site using the Hugo Framework for static site generation. There are two main components of the stack.
